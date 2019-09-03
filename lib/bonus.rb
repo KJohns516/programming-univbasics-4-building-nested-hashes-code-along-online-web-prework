@@ -1,4 +1,4 @@
-def bonus
+def bonus do
   epic_tragedy = {
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
